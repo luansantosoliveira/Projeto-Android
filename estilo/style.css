@@ -40,7 +40,7 @@ header {
 header > h1 {
     color: white;
     font-family: var(--fonte-titulo);
-    font-size: 2em;
+    font-size: 3em;
     font-weight: normal;
     /*text-align: center;*/
     margin-bottom: 15px;
@@ -61,7 +61,7 @@ header > p {
     max-width: 750px;
     padding-right: 10px;
     padding-left: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     margin: auto;
     text-shadow: 2px -2px 2.5px rgb(0, 0, 0, 0.5);
 }
