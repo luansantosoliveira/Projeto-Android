@@ -84,7 +84,7 @@ nav > a:hover {
     /*background-image: linear-gradient(to bottom, var(--cor2), var(--cor3));*/
 }
 main {
-    max-width: 1250px;
+    max-width: 1000px;
     min-width: 300px;
     margin: auto;
     /*margin-top: 20px;*/
